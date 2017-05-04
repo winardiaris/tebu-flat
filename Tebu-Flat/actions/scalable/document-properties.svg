@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="76pt"
+   height="76pt"
+   viewBox="0 0 76 76"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="document-properties.svg">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="7.0264084"
+     inkscape:cx="57.882609"
+     inkscape:cy="70.674969"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linear0"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="70"
+       x2="0"
+       y2="23.729"
+       gradientTransform="matrix(1.216475,0,0,1.216475,-20.390958,-20.389375)">
+      <stop
+         offset="0"
+         style="stop-color:rgb(30.196078%,30.196078%,30.196078%);stop-opacity:1;"
+         id="stop7" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(10.196078%,10.196078%,10.196078%);stop-opacity:1;"
+         id="stop9" />
+    </linearGradient>
+    <filter
+       id="alpha"
+       filterUnits="objectBoundingBox"
+       x="0%"
+       y="0%"
+       width="100%"
+       height="100%">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix12" />
+    </filter>
+    <image
+       id="image9"
+       width="76"
+       height="76"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAABMCAYAAADHl1ErAAAABmJLR0QA/wD/AP+gvaeTAAAA8UlEQVR4nO3cwUlDQRhG0cTEKcPVW6UOixGsR7AIG7CRrLKygWzD04d2kHBBEpFz1j/Dxy1gVisAAG5hfelgu9uN78Ph4Rpjbm09TR9f+/189ubSI5sxpvtlef29WX/X52bztMzz4dzN3bXG/BeCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRYJFgkWCRdtLB49jHF9Op7drjLm15zGO7/PZXxgAAAAg+wE/mBj0Uyd/zwAAAABJRU5ErkJggg==" />
+    <mask
+       id="mask0">
+      <g
+         filter="url(#alpha)"
+         id="g16">
+        <use
+           xlink:href="#image9"
+           id="use18" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip1">
+      <rect
+         width="76"
+         height="76"
+         id="rect21" />
+    </clipPath>
+    <g
+       id="surface11"
+       clip-path="url(#clip1)">
+      <path
+         style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;"
+         d="M 8.804688 8.808594 L 8.804688 10.023438 L 16.101562 10.023438 L 16.101562 8.808594 Z M 20.96875 8.808594 L 20.96875 10.023438 L 67.195312 10.023438 L 67.195312 8.808594 Z M 11.238281 13.671875 L 11.238281 14.890625 L 13.667969 14.890625 L 13.667969 13.671875 Z M 8.804688 20.96875 L 8.804688 22.1875 L 16.101562 22.1875 L 16.101562 20.96875 Z M 20.96875 20.96875 L 20.96875 22.1875 L 67.195312 22.1875 L 67.195312 20.96875 Z M 11.238281 25.835938 L 11.238281 27.054688 L 13.667969 27.054688 L 13.667969 25.835938 Z M 8.804688 33.136719 L 8.804688 34.355469 L 16.101562 34.355469 L 16.101562 33.136719 Z M 20.96875 33.136719 L 20.96875 34.355469 L 67.195312 34.355469 L 67.195312 33.136719 Z M 11.238281 38.003906 L 11.238281 39.21875 L 13.667969 39.21875 L 13.667969 38.003906 Z M 8.804688 45.300781 L 8.804688 46.515625 L 16.101562 46.515625 L 16.101562 45.300781 Z M 20.96875 45.300781 L 20.96875 46.515625 L 67.195312 46.515625 L 67.195312 45.300781 Z M 11.238281 50.164062 L 11.238281 51.382812 L 13.667969 51.382812 L 13.667969 50.164062 Z M 8.804688 57.46875 L 8.804688 58.683594 L 16.101562 58.683594 L 16.101562 57.46875 Z M 20.96875 57.46875 L 20.96875 58.683594 L 67.195312 58.683594 L 67.195312 57.46875 Z M 11.234375 62.332031 L 11.234375 63.550781 L 13.667969 63.550781 L 13.667969 62.332031 Z M 11.234375 62.332031 "
+         id="path24" />
+    </g>
+    <image
+       id="image17"
+       width="76"
+       height="76"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAABMCAYAAADHl1ErAAAABmJLR0QA/wD/AP+gvaeTAAAA3klEQVR4nO3bMWoCURhGUR1EZhWprKzipsyOsq5UVlbZRECEyQ50bhEnDOfUP4+P27/NBgAAWJ/ts4Pd8bifrte3V4xZ2vZw+L5fLrdHN7s5D33NCLsGpxk3w5+vWBnBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwSLBIsEiwaKnn+TP4zi9D8PPK8Ys7WMcp8+lRwAAAPx/v1WkDiDcfzKiAAAAAElFTkSuQmCC" />
+    <mask
+       id="mask1">
+      <g
+         filter="url(#alpha)"
+         id="g28">
+        <use
+           xlink:href="#image17"
+           id="use30" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip2">
+      <rect
+         width="76"
+         height="76"
+         id="rect33" />
+    </clipPath>
+    <g
+       id="surface19"
+       clip-path="url(#clip2)">
+      <path
+         style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;"
+         d="M 11.238281 10.023438 L 11.238281 11.238281 L 13.671875 11.238281 L 13.671875 10.023438 Z M 8.804688 14.886719 L 8.804688 16.105469 L 16.101562 16.105469 L 16.101562 14.886719 Z M 20.96875 14.886719 L 20.96875 16.105469 L 67.195312 16.105469 L 67.195312 14.886719 Z M 11.238281 22.1875 L 11.238281 23.402344 L 13.671875 23.402344 L 13.671875 22.1875 Z M 8.804688 27.054688 L 8.804688 28.269531 L 16.101562 28.269531 L 16.101562 27.054688 Z M 20.96875 27.054688 L 20.96875 28.269531 L 67.195312 28.269531 L 67.195312 27.054688 Z M 11.238281 34.351562 L 11.238281 35.570312 L 13.671875 35.570312 L 13.671875 34.351562 Z M 8.804688 39.21875 L 8.804688 40.433594 L 16.101562 40.433594 L 16.101562 39.21875 Z M 20.96875 39.21875 L 20.96875 40.433594 L 67.195312 40.433594 L 67.195312 39.21875 Z M 11.238281 46.515625 L 11.238281 47.734375 L 13.671875 47.734375 L 13.671875 46.515625 Z M 8.804688 51.382812 L 8.804688 52.597656 L 16.101562 52.597656 L 16.101562 51.382812 Z M 20.96875 51.382812 L 20.96875 52.597656 L 67.195312 52.597656 L 67.195312 51.382812 Z M 11.238281 58.683594 L 11.238281 59.898438 L 13.667969 59.898438 L 13.667969 58.683594 Z M 8.804688 63.546875 L 8.804688 64.765625 L 16.101562 64.765625 L 16.101562 63.546875 Z M 20.96875 63.546875 L 20.96875 64.765625 L 67.195312 64.765625 L 67.195312 63.546875 Z M 20.96875 63.546875 "
+         id="path36" />
+    </g>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path39"
+     d="m 8.804688,8.808594 0,7.296875 7.296874,0 0,-7.296875 z m 12.164062,0 0,7.296875 46.226562,0 0,-7.296875 z m -9.730469,2.429687 2.429688,0 0,2.433594 -2.429688,0 z m -2.433593,9.730469 0,7.300781 7.296874,0 0,-7.300781 z m 12.164062,0 0,7.300781 46.226562,0 0,-7.300781 z m -9.730469,2.433594 2.429688,0 0,2.433594 -2.429688,0 z m -2.433593,9.734375 0,7.296875 7.296874,0 0,-7.296875 z m 12.164062,0 0,7.296875 46.226562,0 0,-7.296875 z m -9.730469,2.433593 2.429688,0 0,2.433594 -2.429688,0 z m -2.433593,9.730469 0,7.296875 7.296874,0 0,-7.296875 z m 12.164062,0 0,7.296875 46.226562,0 0,-7.296875 z m -9.730469,2.433594 2.429688,0 0,2.429687 -2.429688,0 z m -2.433593,9.734375 0,7.296875 7.296874,0 0,-7.296875 z m 12.164062,0 0,7.296875 46.226562,0 0,-7.296875 z m -9.734375,2.429688 2.433594,0 0,2.433593 -2.433594,0 z m 0,0"
+     style="fill:#666666;fill-rule:nonzero;stroke:none" />
+</svg>
